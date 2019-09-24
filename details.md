@@ -1,0 +1,5 @@
+#Database credentials:
+- Server: mysamplesqlserver2.database.windows.net
+- Database Name: AdventureWorksDW
+- User Name: azureuser
+- Password: Pa55w.rd
